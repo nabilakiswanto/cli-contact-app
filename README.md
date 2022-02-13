@@ -1,2 +1,2 @@
-# contact-app-v0.1
+# cli-contact-app
 cli contact app using nodejs
